@@ -41,5 +41,5 @@ The system is designed using a combination of timing diagrams and access graphs 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
-This project was developed as part of the "Introduction to Real-Time Systems" course at [Your University].
+This project was developed as part of the "Introduction to Real-Time Systems" course at Chalmers University of Technology.
 

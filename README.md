@@ -40,6 +40,12 @@ The system is designed using a combination of timing diagrams and access graphs 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+### Contributors
+- **Amir Shojay** - Me
+- **Muhammad Usman** - Collaborator and co-developer
+- **Shariq Sultan** - Collaborator and co-developer
+
+
 ## Acknowledgements
 This project was developed as part of the "Introduction to Real-Time Systems" course at Chalmers University of Technology.
 

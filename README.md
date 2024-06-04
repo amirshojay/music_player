@@ -1,14 +1,12 @@
 # Real-Time Music Player
 
 ## Project Description
-This repository contains the implementation of a real-time music player developed as part of a course on real-time systems. The project is designed to play the "Brother John" melody using a tone generator and a music player, and includes features for controlling the music playback via a CAN bus and a USER button on the MD407 board.
+This repository contains the implementation of a real-time music player developed as part of a course on real-time systems. The project is designed to play the "Brother John" melody using a tone generator and a music player.
 
 ## Features
 - **Tone Generator**: Generates tones based on a 12-tone equal-tempered scale.
 - **Music Player**: Controls the playback of the "Brother John" melody.
-- **CAN Bus Control**: Allows the music player to be controlled remotely via CAN bus messages.
-- **USER Button Control**: Enables dynamic control of key, tempo, and volume through the board's USER button.
-- **Blinking LED**: Indicates the current tempo with a blinking LED synchronized to the beat.
+- **Dynamic Control**: Change key, tempo, and volume during playback.
 
 ## System Design
 The system is designed using a combination of timing diagrams and access graphs to illustrate the interaction between the tone generator and the music player. The timing and access diagrams are included in this repository.
@@ -33,12 +31,9 @@ The system is designed using a combination of timing diagrams and access graphs 
 - **Change Key**: Dynamically change the key of the melody.
 - **Change Tempo**: Adjust the tempo of the melody in the range of 60 to 240 bpm.
 - **Volume Control**: Increase or decrease the volume, and mute the sound.
-- **Tap Tempo**: Set the tempo using the USER button.
 
 ## Files
 - `application.c`: Main application code.
-- `canTinyTimber.c` and `canTinyTimber.h`: CAN bus driver files.
-- `sioTinyTimber.c` and `sioTinyTimber.h`: SIO device driver files for the USER button and LED control.
 - `access_diagram.png`: Access diagram illustrating system interactions.
 - `timing_diagram.png`: Timing diagram illustrating the sequence of operations.
 

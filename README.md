@@ -41,9 +41,9 @@ The system is designed using a combination of timing diagrams and access graphs 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### Contributors
-- **Amir Shojay** - Me
-- **Muhammad Usman** - Collaborator and co-developer
-- **Shariq Sultan** - Collaborator and co-developer
+- **[@amirshojay](https://github.com/amirshojay)** - Me
+- **[@mu-10](https://github.com/labpartner)** - Collaborator and co-developer
+- **[@shariqmush](https://github.com/othercolleague)** - Collaborator and co-developer
 
 
 ## Acknowledgements

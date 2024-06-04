@@ -42,8 +42,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Contributors
 - **[@amirshojay](https://github.com/amirshojay)** - Me
-- **[@mu-10](https://github.com/labpartner)** - Collaborator and co-developer
-- **[@shariqmush](https://github.com/othercolleague)** - Collaborator and co-developer
+- **[@mu-10](https://github.com/mu-10)** - Collaborator and co-developer
+- **[@shariqmush](https://github.com/ShariqMush)** - Collaborator and co-developer
 
 
 ## Acknowledgements
